@@ -20,12 +20,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/matthewlebreton/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/matticus_finch_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.facebook.com/matthew.lebreton.39">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=Matt-B312&style=flat-square&color=blue" alt=""/>
