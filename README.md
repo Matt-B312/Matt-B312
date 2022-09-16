@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=Matt-B312&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>
+<h1 id="wave" align="center">
   Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align="center"/>
 </h1>
